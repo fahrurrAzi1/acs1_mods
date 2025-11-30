@@ -108,8 +108,19 @@
           "name": "IndonesianDesc",
           "label": "Language",
           "url": "https://github.com/kamalvnda/IndonesianDesc"
-     }   
+     },
+     {
+          "name": "IndonesianDesc",
+          "label": "Language",
+          "url": "https://github.com/kamalvnda/IndonesianDesc"
+     }
+     {
+          "name": "MODLeisure",
+          "label": "Function,Usability,Integrated",
+          "url": "https://github.com/kisskapanzerjora2/ACS-leisure-cheats-mod"
+     }
 ]
+
 
 
 
