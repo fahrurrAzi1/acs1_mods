@@ -130,8 +130,14 @@
           "url": "https://github.com/Jai-ACS/Mod-MoreDisciples"
      },
      {
+          "name":"Iguana Overhaul",
+          "label":"Function,Usability",
+          "url":"https://github.com/iguanacore/iguana_acs_features"
+     },
+     {
           "name": "Unlock All Laws",
           "label": "Usability",
           "url": "https://github.com/kamalvnda/UnlockAllLaws"
      }
 ]
+
